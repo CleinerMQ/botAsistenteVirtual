@@ -10,14 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.20.0",
-    "body-parser": "^1.19.0",
-    "dialogflow": "^1.2.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.10.5",
-    "ngrok": "^5.0.0-beta.2",
-    "node-telegram-bot-api": "^0.50.0",
-    "request": "^2.88.2",
-    "uuid": "^8.3.0"
+    "axios": " ",
+    "body-parser": " ",
+    "dialogflow": " ",
+    "express": " ",
+    "mongoose": " ",
+    "ngrok": " ",
+    "node-telegram-bot-api": " ",
+    "request": " ",
+    "uuid": " "
   }
 }
